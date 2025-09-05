@@ -109,3 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Kaggle for providing the Titanic dataset
 - The open-source community for the libraries used
+
+## Kaggle Kernel
+
+For direct use on Kaggle, you can copy and edit the code from this Kaggle notebook: [XGBoost Hands-on Practice with XGBoost](https://www.kaggle.com/code/whats2000/xgboost-hand-on-practice-with-xgboost#Load-the-data-and-display-head)
