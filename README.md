@@ -37,7 +37,7 @@ Please download the dataset from Kaggle and place the CSV files in the project `
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Titanic-Prediction.git
+   git clone https://github.com/whats2000/Titanic-Prediction.git
    cd Titanic-Prediction
    ```
 
